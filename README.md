@@ -1,5 +1,7 @@
 **Project Name:** Microservice Architecture Example
 
+![quiz-architecture.png](quiz-architecture.png)
+
 **Description:**
 
 This repository implements a microservice architecture using Spring Boot and Spring Cloud Netflix, consisting of four services:
@@ -29,4 +31,4 @@ This is a basic example and can be extended to include additional features and s
 For production environments, consider container orchestration and configuration management tools.
 Implement security measures like authentication and authorization to protect API endpoints.
 
-![quiz-architecture.png](quiz-architecture.png)
+
