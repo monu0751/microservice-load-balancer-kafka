@@ -10,3 +10,5 @@ We used spring-cloud-starter-netflix-eureka-client and made QUIZ-SERVICE, QUESTI
 We used spring-cloud-starter-netflix-eureka-server and made REGISTRY-SERVICE as Eureka SERVER
 
 Internally QUIZ-SERVICE is calling QUESTION-SERVICE by using Open-Feign Client.
+
+![img.png](img.png)
