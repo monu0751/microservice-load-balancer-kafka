@@ -11,4 +11,4 @@ We used spring-cloud-starter-netflix-eureka-server and made REGISTRY-SERVICE as 
 
 Internally QUIZ-SERVICE is calling QUESTION-SERVICE by using Open-Feign Client.
 
-![img.png](img.png)
+![quiz-architecture.png](quiz-architecture.png)
